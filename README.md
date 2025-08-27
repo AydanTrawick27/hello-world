@@ -1,2 +1,3 @@
 # hello-world
 This is a practice for github
+My name is Aydan Trawick I am a junior SWE major from St.Louis MO. I enjoy playing basketball, ligting weights, and taking pictures in videos in my free time.
